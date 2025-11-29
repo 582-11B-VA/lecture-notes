@@ -18,7 +18,7 @@ For instance, here is a list of numbers (`List<Number>`):
 [list: 1, 2, 3]
 ```
 
-And a list of booleans (`List<Boolean`):
+And a list of booleans (`List<Boolean>`):
 
 ```pyret
 [list: true, false, false]
